@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "sync-velocity",
   "version": "${version}",
-  "name": "",
+  "name": "Sync Velocity",
   "description": "",
   "authors": [
     "tildejustin"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/modid",
-    "sources": "https://github.com/tildejustin/modid",
-    "issues": "https://github.com/tildejustin/modid/issues"
+    "homepage": "https://modrinth.com/mod/sync-velocity",
+    "sources": "https://github.com/tildejustin/sync-velocity",
+    "issues": "https://github.com/tildejustin/sync-velocity/issues"
   },
   "license": "MPL-2.0",
   "environment": "*",
   "mixins": [
-    "modid.mixins.json"
+    "sync-velocity.mixins.json"
   ],
   "depends": {
     "minecraft": "*",
